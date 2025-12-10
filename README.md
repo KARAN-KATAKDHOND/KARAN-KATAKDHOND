@@ -81,14 +81,20 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KARAN-KATAKDHOND&theme=dracula&hide_border=true&card_width=600" width="100%" />
 </div> -->
 
-<br/>
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KARAN-KATAKDHOND&theme=dracula&hide_border=true&background=0D1117" width="100%" />
 </div>
 
+<br><br><br>
+<div align="center">
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=KARAN-KATAKDHOND&theme=dracula&no-frame=true&row=1&column=7" width="100%" />
+</div>
 
-  <br/>
+
+
+  <br>
 
 
 </td>
