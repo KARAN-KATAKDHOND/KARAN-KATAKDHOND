@@ -23,7 +23,7 @@
   <br/>
   
   <ul>
-    <li>🔭 I’m currently working on <strong>Trip Chain</strong></li>
+    <li>🔭 I’m currently working on <strong><a href="https://github.com/KARAN-KATAKDHOND/Trip_Chain.git" color="none">Trip Chain </a></strong></li>
     <li>🌱 I’m currently learning <strong>Advance Flutter Concepts</strong></li>
     <li>👯 I’m looking to collaborate on <strong>Open Source</strong></li>
     <li>💬 Ask me about <strong>Flutter,Firebase,Machine Learning</strong></li>
@@ -65,22 +65,7 @@
 
   <br/>
   
- <h2>🌐 Connect</h2>
 
-  <p align="left">
-    <a href="https://linkedin.com/in/KARAN-KATAKDHOND">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-    </a>
-    <BR>
-    <a href="https://twitter.com/KARAN-KATAKDHOND">
-      <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
-    </a>
-    <BR>
-    <a href="https://instagram.com/KARAN-KATAKDHOND">
-      <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
-    </a>
-
-  </p>
 
 </td>
 
@@ -92,16 +77,16 @@
 
   
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KARAN-KATAKDHOND&theme=dracula&hide_border=true&card_width=600" width="100%" />
-</div>
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KARAN-KATAKDHOND&theme=dracula&hide_border=true&card_width=600" width="100%" />
+</div> -->
 
 <br/>
 
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KARAN-KATAKDHOND&theme=dracula&hide_border=true&background=0D1117" width="100%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KARAN-KATAKDHOND&theme=dracula&hide_border=true&background=0D1117" width="100%" />
 </div>
+
 
   <br/>
 
@@ -114,7 +99,7 @@
 
 
 <div align="center">
-<h2>🐍 Contribution History</h2>
+<h2> Contribution History</h2>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KARAN-KATAKDHOND&theme=dracula" width="100%">
 
 </div>
